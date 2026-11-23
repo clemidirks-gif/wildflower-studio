@@ -1,0 +1,14 @@
+# Wildflower Studio
+> Creative production and practical AI automation studio based in Cape Town, South Africa.
+
+Wildflower Studio helps growing businesses eliminate repetitive admin and elevate their visual brand presence.
+
+## Core Services
+- **24/7 WhatsApp & Website AI Assistants**: Custom digital assistants trained on a business's pricing, availability, and FAQs to reply to leads and book appointments automatically.
+- **Admin & Quote Automation**: Hands-free PDF quote generation, client onboarding, and invoice reminders.
+- **Website Design & Engineering**: High-converting, mobile-first editorial websites connected to automated lead capture.
+- **Commercial Video Ads & Photography**: Short-form video ads, e-commerce catalog photography, and monthly social content.
+
+## Contact & Booking
+- Website: https://studio.wildflowerfilms.co.za/
+- Sister Brand (Wedding Cinematography): https://wildflowerfilms.co.za/
